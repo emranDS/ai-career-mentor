@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile app.py src/*.py views/*.py)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
